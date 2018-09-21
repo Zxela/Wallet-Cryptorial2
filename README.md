@@ -21,4 +21,3 @@ Open a new terminal
 cd ../client && npm start  
 
 Browser should automatically open to localhost:8080
-# Wallet-Cryptorial2
